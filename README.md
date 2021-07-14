@@ -1,4 +1,4 @@
-# Face Recognition integration with Devops - Python application.
+# Face Recognition integration with DevOps - Python application.
 
 This python application uses LBPH Face Recognition Algorithm to recognize face of the user. If the face is recognized then menu is display to the user otherwise not.
 This menu is used to:
