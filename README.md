@@ -2,8 +2,8 @@
 
 This python application uses LBPH Face Recognition Algorithm to recognize the face of the user. If the face is recognized then the menu is displayed to the user otherwise not. This menu is used to:
 
-1. Create an EC2 Instance on AWS Cloud
-2. Create a deployment and expose that deployment in Kubernetes Cluster.
+1. Create an EC2 Instance on AWS Cloud (using terraform)
+2. Create a deployment and expose that deployment in Kubernetes Cluster (using kubectl).
 
 
 
